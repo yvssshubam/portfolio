@@ -253,11 +253,7 @@ function StatusPanel() {
         <Row k="ml" v="PyTorch · YOLOv8 · FAISS · Mistral" />
       </ul>
 
-      <div className="mt-5 grid grid-cols-3 gap-2 border-t border-zinc-800 pt-4">
-        <Stat label="systems shipped" value="11" />
-        <Stat label="prod uptime" value="99.94%" />
-        <Stat label="repos open" value="23" />
-      </div>
+     
 
       {/* subtle scanline */}
       <div
